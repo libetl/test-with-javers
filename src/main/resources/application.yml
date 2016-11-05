@@ -1,0 +1,15 @@
+javers:
+  mappingStyle: FIELD
+  algorithm: LEVENSHTEIN_DISTANCE
+  prettyPrint: true
+  typeSafeValues: false
+  newObjectSnapshot: false
+  packagesToScan:
+  auditableAspectEnabled: true
+  springDataAuditableRepositoryAspectEnabled: true
+
+logging:
+  level:
+    org.springframework: WARN
+    org.javers: WARN
+    org.apache: WARN

@@ -60,7 +60,7 @@
 		<dependency>
 			<groupId>org.toile-libre.libe</groupId>
 			<artifactId>curl</artifactId>
-			<version>0.0.9</version>
+			<version>0.0.39</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
